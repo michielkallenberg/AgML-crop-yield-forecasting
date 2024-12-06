@@ -1,0 +1,21 @@
+runs package
+============
+
+Submodules
+----------
+
+runs.run\_benchmark module
+--------------------------
+
+.. automodule:: runs.run_benchmark
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: runs
+   :members:
+   :undoc-members:
+   :show-inheritance:
